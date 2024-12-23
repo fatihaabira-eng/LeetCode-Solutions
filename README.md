@@ -1,2 +1,127 @@
-# LeetCode-Solutions
-My solutions to LeetCode problems, categorized by topics and implemented in Python. This repository serves as a record of my coding practice and problem-solving journey for improving algorithmic skills.
+# Leetcode Solutions
+A GitHub repo with over 7k+ solutions 🚀 to more than 1800 Leetcode problems.  
+Written in C++, Python, Java, and Javascript.
+
+## Algorithms
+| Section | Links |
+|---------|-------|
+| **0-9** |       |
+| **A**   | [Solution A](path_to_solution) |
+| **B**   | [Solution B](path_to_solution) |
+| **C**   | [Solution C](path_to_solution) |
+| **D**   | [Solution D](path_to_solution) |
+| **E**   |       |
+| **F**   |       |
+| **G**   |       |
+| **H**   |       |
+| **I**   |       |
+| **J**   |       |
+| **K**   |       |
+| **L**   |       |
+| **M**   |       |
+| **N**   |       |
+| **O**   |       |
+| **P**   |       |
+| **Q**   |       |
+| **R**   |       |
+| **S**   |       |
+| **T**   |       |
+| **U**   |       |
+| **V**   |       |
+| **W**   |       |
+| **X**   |       |
+| **Y**   |       |
+| **Z**   |       |
+
+## Database
+| Section | Links |
+|---------|-------|
+| **0-9** |       |
+| **A**   |       |
+| **B**   |       |
+| **C**   |       |
+| **D**   |       |
+| **E**   |       |
+| **F**   |       |
+| **G**   |       |
+| **H**   |       |
+| **I**   |       |
+| **J**   |       |
+| **K**   |       |
+| **L**   |       |
+| **M**   |       |
+| **N**   |       |
+| **O**   |       |
+| **P**   |       |
+| **Q**   |       |
+| **R**   |       |
+| **S**   |       |
+| **T**   |       |
+| **U**   |       |
+| **V**   |       |
+| **W**   |       |
+| **X**   |       |
+| **Y**   |       |
+| **Z**   |       |
+
+## Shell
+| Section | Links |
+|---------|-------|
+| **0-9** |       |
+| **A**   |       |
+| **B**   |       |
+| **C**   |       |
+| **D**   |       |
+| **E**   |       |
+| **F**   |       |
+| **G**   |       |
+| **H**   |       |
+| **I**   |       |
+| **J**   |       |
+| **K**   |       |
+| **L**   |       |
+| **M**   |       |
+| **N**   |       |
+| **O**   |       |
+| **P**   |       |
+| **Q**   |       |
+| **R**   |       |
+| **S**   |       |
+| **T**   |       |
+| **U**   |       |
+| **V**   |       |
+| **W**   |       |
+| **X**   |       |
+| **Y**   |       |
+| **Z**   |       |
+
+## Concurrency
+| Section | Links |
+|---------|-------|
+| **0-9** |       |
+| **A**   |       |
+| **B**   |       |
+| **C**   |       |
+| **D**   |       |
+| **E**   |       |
+| **F**   |       |
+| **G**   |       |
+| **H**   |       |
+| **I**   |       |
+| **J**   |       |
+| **K**   |       |
+| **L**   |       |
+| **M**   |       |
+| **N**   |       |
+| **O**   |       |
+| **P**   |       |
+| **Q**   |       |
+| **R**   |       |
+| **S**   |       |
+| **T**   |       |
+| **U**   |       |
+| **V**   |       |
+| **W**   |       |
+| **X**   |       |
+| **Y**   |       |
+| **Z**   |       |
